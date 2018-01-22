@@ -12,7 +12,7 @@ The objective of this lab is a learn the basics of an example that uses Pulse Wi
 Module | Pin
 --- | ---
 Rotary Angle Sensor | A0
-LED | D3
+LED | D4
 
 ![](./images/action.png) Connect **Grove Rotary Angle Sensor** to analog pin **A0** of the Grove Base Shield.
 
@@ -39,7 +39,7 @@ void setup() {
   // A2 rotary
   aio = mraa_aio_init(KNOB_PIN);
 
-  // D3 LED (supports PWM)
+  // D4 LED (supports PWM)
   pwm = mraa_pwm_init(LED_PIN);
 
   // Initialize the serial monitor
