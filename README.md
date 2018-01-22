@@ -22,10 +22,10 @@ Create a new project
 ```c
 // Setup instructions
 // A2 - Grove Rotary Angle Sensor
-// D3 - LED
+// D4 - LED
 #define SUBPLATFORM_OFFSET 512
 #define KNOB_PIN SUBPLATFORM_OFFSET + 2
-#define LED_PIN SUBPLATFORM_OFFSET + 3
+#define LED_PIN SUBPLATFORM_OFFSET + 4
 
 mraa_pwm_context pwm;
 mraa_aio_context aio;
