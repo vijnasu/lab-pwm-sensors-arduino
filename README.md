@@ -70,7 +70,7 @@ This program will get the raw value from the rotary angle sensor, a number betwe
 If the PWM duty cycle is set to 0.5 or 50% then the LED will be ON about half of the time and off half of the time. However, the change to ON from OFF and back happens so quickly that the light appears to be a half intensity.
 
 # Lab Answers
-Find the (complete solution to this lab)[https://create.arduino.cc/editor/danielholmlund/6b857743-df59-4877-8d9a-32b24f21143b/preview] in the Arduino Create environment.
+Find the [complete solution to this lab](https://create.arduino.cc/editor/danielholmlund/6b857743-df59-4877-8d9a-32b24f21143b/preview) in the Arduino Create environment.
 
 https://create.arduino.cc/editor/danielholmlund/6b857743-df59-4877-8d9a-32b24f21143b/preview
 
