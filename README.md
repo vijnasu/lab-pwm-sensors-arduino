@@ -14,7 +14,7 @@ Module | Pin
 Rotary Angle Sensor | A0
 LED | D3
 
-![](./images/action.png) Connect **Grove Rotary Angle Sensor** to analog pin **A0** of the Grove Base Shield.
+![](./images/action.png) Connect **Grove Rotary Angle Sensor** to analog pin **A2** of the Grove Base Shield.
 
 ![](./images/action.png) Connect **Grove LED** to digital pin **D3** of the Grove Base Shield.
 
